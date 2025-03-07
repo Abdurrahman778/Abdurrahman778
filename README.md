@@ -42,11 +42,9 @@
 
 ###
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Q3Y2x5em1qcWdtNHNxaTh1YXM0ODhlOTdqdHdkNmUyaGNnZXJyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6UBedJJfaxXHvZyU/giphy.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/abdurrahman778/abdurrahman778/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="199" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Q3Y2x5em1qcWdtNHNxaTh1YXM0ODhlOTdqdHdkNmUyaGNnZXJyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6UBedJJfaxXHvZyU/giphy.gif"  />
+</div>
 
 ###
 
