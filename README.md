@@ -50,6 +50,14 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<h5 align="left">hanya bisa mengagumi bukan untuk memiliki</h5>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/7cipuitqgcv9p97bmddbfikrl">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=7cipuitqgcv9p97bmddbfikrl&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
