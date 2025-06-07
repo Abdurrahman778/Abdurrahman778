@@ -44,11 +44,8 @@
 
 <div align="center">
   <img height="199" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Q3Y2x5em1qcWdtNHNxaTh1YXM0ODhlOTdqdHdkNmUyaGNnZXJyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6UBedJJfaxXHvZyU/giphy.gif"  />
+  <h5 align="left">hanya bisa mengagumi bukan untuk memiliki</h5>
 </div>
-
-###
-
-<h5 align="left">hanya bisa mengagumi bukan untuk memiliki</h5>
 
 ###
 
