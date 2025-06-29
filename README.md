@@ -5,13 +5,6 @@
 - 🌱 Active GitHub user since November 2024 with a passion for coding
 - 🔭 Diverse skill set in PHP, JavaScript, CSS, HTML, Dart, and C++
 - 🚀 Consistent coding habits with 84 commits and 4 contributions
-
-### 💻 My Recent Projects
-
-- e-commerce_fakeAPI
-- weather-app
-- Ticketing-App
-
 ### 📊 GitHub Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Abdurrahman778)
