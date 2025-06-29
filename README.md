@@ -2,12 +2,11 @@
 
 ### 🧐 About Me
 
-- 🌱 Active GitHub user since November 2013 with a passion for coding
+- 🌱 Active GitHub user since November 2024 with a passion for coding
 - 🔭 Diverse skill set in PHP, JavaScript, CSS, HTML, Dart, and C++
 - 🚀 Consistent coding habits with 84 commits and 4 contributions
-- 💬 I love building e-commerce, weather, library apps, and self-profile mobile apps
 
-### 💻 My Projects
+### 💻 My Recent Projects
 
 - e-commerce_fakeAPI
 - weather-app
@@ -25,8 +24,8 @@
 Let's connect and share our coding experiences:
 
 - GitHub: [Abdurrahman778](https://github.com/Abdurrahman778)
-- LinkedIn: [Abdurrahman LinkedIn](https://www.linkedin.com/in/abdurrahman/)
-- Email: abdurrahman@email.com
+- LinkedIn: [Abdurrahman LinkedIn](https://www.linkedin.com/in/durrahman/)
+- Email: 412abdurrahman@email.com
 
 ### ⚡ Fun Fact
 
